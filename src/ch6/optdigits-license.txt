@@ -1,0 +1,9 @@
+[Original Data]
+[URL] https://archive.ics.uci.edu/ml/datasets/Pen-Based+Recognition+of+Handwritten+Digits
+
+[Source]
+E. Alpaydin, Fevzi. Alimoglu
+Department of Computer Engineering
+Bogazici University, 80815 Istanbul Turkey
+alpaydin '@' boun.edu.tr
+
