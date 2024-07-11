@@ -18,5 +18,3 @@ def is_even(num):
 if __name__ == '__main__':
     import doctest
     doctest.testmod()
-
-

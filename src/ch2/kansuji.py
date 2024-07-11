@@ -5,6 +5,7 @@ ROMASUJI = list('0123456789')
 
 # 変換テーブルを辞書に変換 --- (*2)
 KANSUJI_DIC = { key: str(no) for no, key in enumerate(KANSUJI) }
+print(KANSUJI_DIC)
 
 # 漢数字に変換 --- (*3)
 def to_kansuji(src):
